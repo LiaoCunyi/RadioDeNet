@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zheng_saber@202.114.36.50:9025">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zheng_saber/zheng/phD_project/RSRPNet/ICC2022" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
